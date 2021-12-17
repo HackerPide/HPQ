@@ -1,2 +1,2 @@
 # HPVanilla
-HackerPide's Vanilla Modpack
+HackerPide's Vanilla Modpack for Minecraft

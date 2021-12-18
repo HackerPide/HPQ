@@ -1,5 +1,5 @@
 # HPVanilla
-HackerPide's Vanilla Modpack for Minecraft
+This modpack is aimed at optimizing game performance and making quality of life changes to the vanilla Minecraft experience.
 
 ## Mods to be compiled/added
 

@@ -12,4 +12,4 @@ This modpack is aimed at optimizing game performance and making quality of life 
 
 ## TODO
 
-- Add a wiki of sorts to link and explain every included mod
+- [ ] Add a wiki of sorts to link and explain every included mod

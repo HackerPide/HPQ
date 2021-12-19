@@ -1,6 +1,6 @@
 # HPVanilla
-This modpack is aimed at optimizing game performance and making quality of life changes to the vanilla Minecraft experience.
-
+This modpack is aimed at optimizing game performance and making quality of life changes to the vanilla Minecraft experience. 
+This modpack requires [Fabric Loader](https://fabricmc.net/use/installer/)
 
 ## Mods to be compiled/added
 

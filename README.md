@@ -6,7 +6,7 @@ This modpack is aimed at optimizing game performance and making quality of life 
 ## Mods to be compiled/added
 
 - [x] [Modget-Minecraft](https://github.com/ReviversMC/modget-minecraft)
-- [ ] [connected-block-textures](https://github.com/TwilightFlower/connected-block-textures)
+- [ ] [connected-block-textures](https://github.com/RoootTheFox/connected-block-textures)
 - [ ] [Player Mini-Me](https://github.com/PhoenixVX/Player-Mini-Me)
 - [ ] [Critical Flight Display](https://github.com/bshuler/critical-flight-details)
 

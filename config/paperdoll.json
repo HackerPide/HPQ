@@ -1,0 +1,10 @@
+{
+  "render_height": 50,
+  "render_width": 25,
+  "rotation": 20,
+  "dynamic_scale": false,
+  "x": 10,
+  "y": 55,
+  "only_activity": false,
+  "change_swim_fly": true
+}

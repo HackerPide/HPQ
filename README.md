@@ -1,7 +1,9 @@
 # HPVanilla
 This modpack is aimed at optimizing game performance and making quality of life changes to the vanilla Minecraft experience.
 
-[Fabric Loader](https://fabricmc.net/use/installer/) is required.
+[Fabric Loader](https://fabricmc.net/use/installer/) is required. 
+
+Mod and config download: [Latest release](https://github.com/HackerPide/HPVanilla/releases/latest/download/HPVanilla_1.18_.zip)
 
 ## TODO
 

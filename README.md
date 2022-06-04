@@ -13,7 +13,8 @@ Mod and config download: [Latest release](https://github.com/HackerPide/HPVanill
 
 ## Mods to be compiled/added
 
+- [ ] [multiconnect](https://github.com/Earthcomputer/multiconnect) when it gets rewritten for 1.18.2
 - [x] [Modget-Minecraft](https://github.com/ReviversMC/modget-minecraft)
 - [x] [connected-block-textures](https://github.com/RoootTheFox/connected-block-textures)
 - [x] [Player Mini-Me](https://github.com/PhoenixVX/Player-Mini-Me)
-- [x] [Critical Flight Display](https://github.com/bshuler/critical-flight-details)
+- [ ] ~~[Critical Flight Display](https://github.com/bshuler/critical-flight-details)~~ I'm too lazy to fix this, it is a cosmetic mod anyways

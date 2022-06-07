@@ -18,5 +18,4 @@ Mod and config download: [Latest release](https://github.com/HackerPide/HPVanill
 - [x] [Continuity](https://github.com/PepperCode1/Continuity)
 - [x] [Modget-Minecraft](https://github.com/ReviversMC/modget-minecraft)
 - [x] [Player Mini-Me](https://github.com/PhoenixVX/Player-Mini-Me)
-- [ ] ~~[Critical Flight Display](https://github.com/bshuler/critical-flight-details)~~ I'm too lazy to fix this, it is a cosmetic mod anyways
- 
+- [x] [Flight HUD](https://github.com/frodare/FlightHud)

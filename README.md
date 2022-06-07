@@ -7,13 +7,13 @@ Mod and config download: [Latest release](https://github.com/HackerPide/HPVanill
 
 ## TODO
 
-- [x] Fix/update mods for 1.18.2 🙄
+- [x] Fix/update mods for 1.19 🙄
 - [ ] Add a wiki of sorts to link and explain every included mod
 - [ ] Write an installer/downloader(CurseForge maybe?)
 
 ## Mods to be compiled/added
 
-- [ ] [multiconnect](https://github.com/Earthcomputer/multiconnect) when it gets rewritten for 1.18.2
+- [ ] [multiconnect](https://github.com/Earthcomputer/multiconnect) when it gets rewritten for 1.19
 - [ ] [Seamless Loading Screen](https://github.com/Minenash/Seamless-Loading-Screen) when it gets fixed
 - [x] [Continuity](https://github.com/PepperCode1/Continuity)
 - [x] [Modget-Minecraft](https://github.com/ReviversMC/modget-minecraft)

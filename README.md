@@ -3,7 +3,7 @@ This modpack is aimed at optimizing game performance and making quality of life 
 
 [Fabric Loader](https://fabricmc.net/use/installer/) is required. 
 
-Mod and config download: [Latest release](https://github.com/HackerPide/HPVanilla/releases/latest/download/HPVanilla_1.19_.zip)
+Mod and config download: [Latest release](https://github.com/HackerPide/HPVanilla/releases/latest/download/HPVanilla_1.19.1_.zip)
 
 ## TODO
 

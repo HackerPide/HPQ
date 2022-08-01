@@ -14,6 +14,7 @@ Mod and config download: [Latest release](https://github.com/HackerPide/HPVanill
 ## Mods to be compiled/added
 
 - [x] [multiconnect](https://github.com/Earthcomputer/multiconnect) when it gets rewritten for 1.19
+- [ ] [Modget-Minecraft](https://github.com/ReviversMC/modget-minecraft)
 - [ ] [Seamless Loading Screen](https://github.com/Minenash/Seamless-Loading-Screen) when it gets fixed
 - [ ] [MemoryUsageScreen](https://github.com/MORIMORI0317/MemoryUsageScreen)
 - [x] [Continuity](https://github.com/PepperCode1/Continuity)

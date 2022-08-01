@@ -18,6 +18,5 @@ Mod and config download: [Latest release](https://github.com/HackerPide/HPVanill
 - [ ] [Seamless Loading Screen](https://github.com/Minenash/Seamless-Loading-Screen) when it gets fixed
 - [ ] [MemoryUsageScreen](https://github.com/MORIMORI0317/MemoryUsageScreen)
 - [x] [Continuity](https://github.com/PepperCode1/Continuity)
-- [x] [Modget-Minecraft](https://github.com/ReviversMC/modget-minecraft)
-- [x] [Player Mini-Me](https://github.com/PhoenixVX/Player-Mini-Me)
+- [x] [PaperDoll](https://github.com/tr7zw/PaperDoll)
 - [x] [Flight HUD](https://github.com/frodare/FlightHud)

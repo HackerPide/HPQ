@@ -7,7 +7,7 @@ Mod and config download: [Latest release](https://github.com/HackerPide/HPVanill
 
 ## TODO
 
-- [ ] Fix/update mods for 1.19 🙄
+- [x] Fix/update mods for 1.19.1
 - [ ] Add a wiki of sorts to link and explain every included mod
 - [ ] Write an installer/downloader(CurseForge maybe?)
 

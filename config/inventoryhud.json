@@ -9,6 +9,7 @@
   "pot_alpha": 100,
   "pot_gap": 0,
   "pot_mini": false,
+  "bar_duration": 300,
   "pot_hor": false,
   "arm_toggle": true,
   "arm_above": 100,

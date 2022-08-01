@@ -1,0 +1,8 @@
+{
+  "watchForConfigChanges": true,
+  "displayModeWhenFlying": "FULL",
+  "displayModeWhenNotFlying": "NONE",
+  "calculateRoll": true,
+  "rollTurningForce": 1.25,
+  "rollSmoothing": 0.85
+}

@@ -6,7 +6,7 @@
 
 ## Installation
 - Install [Fabric Loader](https://fabricmc.net/use/installer/)
-- Download [Mod and config](https://github.com/HackerPide/HPVanilla/releases/latest/download/HPVanilla-1.19.1.zip)
+- Download [modpack and config](https://github.com/HackerPide/HPVanilla/releases/latest/download/HPVanilla-1.19.1.zip)
 - Extract contents to %appdata%/.minecraft
 
 ## TODO

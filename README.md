@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">HPVanilla</h1>
+  <h1 align="center">HPQ</h1>
   <h5 align="center">This modpack is aimed at optimizing game performance and making quality of life changes to the vanilla Minecraft experience.</h5>
   <h5 align="center">Fabric Loader is required.</h5>
 </div>

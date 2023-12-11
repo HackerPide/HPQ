@@ -8,6 +8,7 @@
 - I recommend using [PrismLauncher with Quilt](https://quiltmc.org/en/install/prismlauncher/)
 - ~~Download [modpack and config(1.19.1)](https://github.com/HackerPide/HPQ/archive/refs/heads/master.zip)~~
   - This will be available on the launcher itself in the future
+    - You can use `Fabulously Optimized` until then
 - Add Instance -> Import 
 
 ## TODO
